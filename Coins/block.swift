@@ -11,7 +11,7 @@ import UIKit
 
 class block {
     
-    // Device Values TESTING
+    // Device Values
     let screenWidth  = UIScreen.main.fixedCoordinateSpace.bounds.width
     let screenHeight = UIScreen.main.fixedCoordinateSpace.bounds.height
     
